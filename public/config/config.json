@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1F0763aC1599c55799a06Dc9C6E952F487429675",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x1f0763ac1599c55799a06dc9c6e952f487429675",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Hello Eye",
+  "SYMBOL": "HE",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 200000000000000,
+  "DISPLAY_COST": 0.0002,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/helloeye-v4",
+  "SHOW_BACKGROUND": true
+}

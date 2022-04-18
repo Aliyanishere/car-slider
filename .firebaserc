@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "helloeye-test",
+    "test": "helloeye-test",
+    "helloeye-test": "helloeye-test"
+  },
+  "targets": {}
+}
